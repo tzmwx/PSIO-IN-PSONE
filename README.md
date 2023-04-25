@@ -1,1 +1,2 @@
 # PSIO-IN-PSONE
+将PSIO安装到PSONE主机
